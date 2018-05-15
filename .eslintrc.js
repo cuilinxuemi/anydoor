@@ -6,6 +6,7 @@ module.exports = {
             "allow": ["warn", "error", "info"]
         }]
     },
+    "parser":"babel-eslint",
     "perserOptions":{
         "ecmaVersion":6,
         "sourceType":"script"
